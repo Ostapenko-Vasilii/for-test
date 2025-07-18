@@ -1,6 +1,6 @@
 {
   "lightMapStyleUrl": "https://tiles.openfreemap.org/styles/liberty",
-  "nightMapStyleUrl": "night_style_url",
+  "nightMapStyleUrl": "https://tiles.openfreemap.org/styles/dark",
   "startPosition": {
     "lon": 73.352102,
     "lan": 54.994277
@@ -10,7 +10,7 @@
   "startZoom": 12,
   "zonesList": [
     {
-      "id": "01",
+      "id": "zone_1",
       "cords": [
         {"lon": 73.352455, "lan": 54.988535},
         {"lon": 73.360419, "lan": 54.991572},
@@ -22,7 +22,7 @@
         {"lon": 73.343572, "lan": 54.994596},
         {"lon": 73.352455, "lan": 54.988535}
       ],
-      "zoneName": "Зона 1",
+      "zoneName": "Zone 1",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -32,7 +32,7 @@
       "activateScore": 0
     },
     {
-      "id": "02",
+      "id": "zone_2",
       "cords": [
         {"lon": 73.352466, "lan": 54.988538},
         {"lon": 73.355838, "lan": 54.985828},
@@ -44,7 +44,7 @@
         {"lon": 73.360442, "lan": 54.991576},
         {"lon": 73.352466, "lan": 54.988538}
       ],
-      "zoneName": "Зона 2",
+      "zoneName": "Zone 2",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -54,7 +54,7 @@
       "activateScore": 0
     },
     {
-      "id": "03",
+      "id": "zone_3",
       "cords": [
         {"lon": 73.353142, "lan": 54.999969},
         {"lon": 73.363207, "lan": 54.991364},
@@ -67,7 +67,7 @@
         {"lon": 73.356806, "lan": 55.001416},
         {"lon": 73.353142, "lan": 54.999969}
       ],
-      "zoneName": "Зона 3",
+      "zoneName": "Zone 3",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -77,7 +77,7 @@
       "activateScore": 0
     },
     {
-      "id": "04",
+      "id": "zone_4",
       "cords": [
         {"lon": 73.357258, "lan": 55.001613},
         {"lon": 73.357791, "lan": 55.001818},
@@ -139,7 +139,7 @@
         {"lon": 73.347823, "lan": 55.009257},
         {"lon": 73.357258, "lan": 55.001613}
       ],
-      "zoneName": "Зона 4",
+      "zoneName": "Zone 4",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -149,7 +149,7 @@
       "activateScore": 0
     },
     {
-      "id": "05",
+      "id": "zone_5",
       "cords": [
         {"lon": 73.364715, "lan": 55.001901},
         {"lon": 73.364534, "lan": 54.991409},
@@ -157,7 +157,7 @@
         {"lon": 73.373340, "lan": 55.002119},
         {"lon": 73.364715, "lan": 55.001901}
       ],
-      "zoneName": "Зона 5",
+      "zoneName": "Zone 5",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -167,7 +167,7 @@
       "activateScore": 0
     },
     {
-      "id": "06",
+      "id": "zone_6",
       "cords": [
         {"lon": 73.363227, "lan": 54.991363},
         {"lon": 73.365877, "lan": 54.989237},
@@ -186,7 +186,7 @@
         {"lon": 73.364422, "lan": 54.991368},
         {"lon": 73.363227, "lan": 54.991363}
       ],
-      "zoneName": "Зона 6",
+      "zoneName": "Zone 6",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -196,7 +196,7 @@
       "activateScore": 0
     },
     {
-      "id": "07",
+      "id": "zone_7",
       "cords": [
         {"lon": 73.355838, "lan": 54.985841},
         {"lon": 73.365989, "lan": 54.981321},
@@ -208,7 +208,7 @@
         {"lon": 73.365855, "lan": 54.989252},
         {"lon": 73.355838, "lan": 54.985841}
       ],
-      "zoneName": "Зона 7",
+      "zoneName": "Zone 7",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -218,7 +218,7 @@
       "activateScore": 0
     },
     {
-      "id": "08",
+      "id": "zone_8",
       "cords": [
         {"lon": 73.373891, "lan": 55.007150},
         {"lon": 73.371915, "lan": 54.991128},
@@ -248,7 +248,7 @@
         {"lon": 73.380580, "lan": 55.007015},
         {"lon": 73.373891, "lan": 55.007150}
       ],
-      "zoneName": "Зона 8",
+      "zoneName": "Zone 8",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -258,7 +258,7 @@
       "activateScore": 0
     },
     {
-      "id": "09",
+      "id": "zone_9",
       "cords": [
         {"lon": 73.373981, "lan": 55.007168},
         {"lon": 73.387050, "lan": 55.006782},
@@ -270,7 +270,7 @@
         {"lon": 73.377821, "lan": 55.035734},
         {"lon": 73.373981, "lan": 55.007168}
       ],
-      "zoneName": "Зона 9",
+      "zoneName": "Zone 9",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -280,7 +280,7 @@
       "activateScore": 0
     },
     {
-      "id": "10",
+      "id": "zone_10",
       "cords": [
         {"lon": 73.377874, "lan": 55.035731},
         {"lon": 73.378680, "lan": 55.035655},
@@ -301,7 +301,7 @@
         {"lon": 73.419234, "lan": 55.059651},
         {"lon": 73.377874, "lan": 55.035731}
       ],
-      "zoneName": "Зона 10",
+      "zoneName": "Zone 10",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -311,7 +311,7 @@
       "activateScore": 0
     },
     {
-      "id": "11",
+      "id": "zone_11",
       "cords": [
         {"lon": 73.420475, "lan": 55.033795},
         {"lon": 73.442957, "lan": 55.029561},
@@ -352,7 +352,7 @@
         {"lon": 73.426813, "lan": 55.039278},
         {"lon": 73.420475, "lan": 55.033795}
       ],
-      "zoneName": "Зона 11",
+      "zoneName": "Zone 11",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -362,7 +362,7 @@
       "activateScore": 0
     },
     {
-      "id": "12",
+      "id": "zone_12",
       "cords": [
         {"lon": 73.420255, "lan": 55.033843},
         {"lon": 73.417897, "lan": 55.031848},
@@ -396,7 +396,7 @@
         {"lon": 73.434780, "lan": 55.031084},
         {"lon": 73.420255, "lan": 55.033843}
       ],
-      "zoneName": "Зона 12",
+      "zoneName": "Zone 12",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -406,7 +406,7 @@
       "activateScore": 0
     },
     {
-      "id": "13",
+      "id": "zone_13",
       "cords": [
         {"lon": 73.373814, "lan": 54.971956},
         {"lon": 73.376262, "lan": 54.972413},
@@ -424,7 +424,7 @@
         {"lon": 73.365967, "lan": 54.981332},
         {"lon": 73.373814, "lan": 54.971956}
       ],
-      "zoneName": "Зона 13",
+      "zoneName": "Zone 13",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -434,7 +434,7 @@
       "activateScore": 0
     },
     {
-      "id": "14",
+      "id": "zone_14",
       "cords": [
         {"lon": 73.380553, "lan": 54.982722},
         {"lon": 73.380795, "lan": 54.980515},
@@ -450,7 +450,7 @@
         {"lon": 73.382948, "lan": 54.983348},
         {"lon": 73.380553, "lan": 54.982722}
       ],
-      "zoneName": "Зона 14",
+      "zoneName": "Zone 14",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -460,7 +460,7 @@
       "activateScore": 0
     },
     {
-      "id": "15",
+      "id": "zone_15",
       "cords": [
         {"lon": 73.380029, "lan": 54.983466},
         {"lon": 73.380532, "lan": 54.982856},
@@ -488,7 +488,7 @@
         {"lon": 73.382805, "lan": 54.985275},
         {"lon": 73.380029, "lan": 54.983466}
       ],
-      "zoneName": "Зона 15",
+      "zoneName": "Zone 15",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -498,7 +498,7 @@
       "activateScore": 0
     },
     {
-      "id": "16",
+      "id": "zone_16",
       "cords": [
         {"lon": 73.396923, "lan": 54.984842},
         {"lon": 73.396975, "lan": 54.984537},
@@ -538,7 +538,7 @@
         {"lon": 73.412712, "lan": 54.985627},
         {"lon": 73.396923, "lan": 54.984842}
       ],
-      "zoneName": "Зона 16",
+      "zoneName": "Zone 16",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -548,7 +548,7 @@
       "activateScore": 0
     },
     {
-      "id": "17",
+      "id": "zone_17",
       "cords": [
         {"lon": 73.518057, "lan": 55.017916},
         {"lon": 73.515502, "lan": 55.018055},
@@ -609,7 +609,7 @@
         {"lon": 73.517610, "lan": 55.015922},
         {"lon": 73.518057, "lan": 55.017916}
       ],
-      "zoneName": "Зона 17",
+      "zoneName": "Zone 17",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -619,7 +619,7 @@
       "activateScore": 0
     },
     {
-      "id": "18",
+      "id": "zone_18",
       "cords": [
         {"lon": 73.373765, "lan": 54.971951},
         {"lon": 73.377143, "lan": 54.964021},
@@ -638,7 +638,7 @@
         {"lon": 73.374026, "lan": 54.971994},
         {"lon": 73.373765, "lan": 54.971951}
       ],
-      "zoneName": "Зона 18",
+      "zoneName": "Zone 18",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -648,7 +648,7 @@
       "activateScore": 0
     },
     {
-      "id": "19",
+      "id": "zone_19",
       "cords": [
         {"lon": 73.382102, "lan": 54.972944},
         {"lon": 73.382922, "lan": 54.970503},
@@ -675,7 +675,7 @@
         {"lon": 73.382459, "lan": 54.972973},
         {"lon": 73.382102, "lan": 54.972944}
       ],
-      "zoneName": "Зона 19",
+      "zoneName": "Zone 19",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
@@ -685,7 +685,7 @@
       "activateScore": 0
     },
     {
-      "id": "20",
+      "id": "zone_20",
       "cords": [
         {"lon": 73.350460, "lan": 54.933308},
         {"lon": 73.356412, "lan": 54.931479},
@@ -713,13 +713,137 @@
         {"lon": 73.363362, "lan": 54.943078},
         {"lon": 73.350460, "lan": 54.933308}
       ],
-      "zoneName": "Зона 20",
+      "zoneName": "Zone 20",
       "isVisible": true,
       "isClosed": true,
       "isCompleted": false,
       "isClickable": true,
       "zoneColorHex": "#80800040",
       "description": "Test zone 20",
+      "activateScore": 0
+    },
+    {
+      "id": "zone_21",
+      "cords": [
+        {"lon": 73.387490, "lan": 54.954668},
+        {"lon": 73.387779, "lan": 54.953344},
+        {"lon": 73.387689, "lan": 54.950200},
+        {"lon": 73.385238, "lan": 54.944995},
+        {"lon": 73.380456, "lan": 54.934897},
+        {"lon": 73.381513, "lan": 54.933027},
+        {"lon": 73.378950, "lan": 54.930765},
+        {"lon": 73.379167, "lan": 54.929984},
+        {"lon": 73.377751, "lan": 54.928743},
+        {"lon": 73.373725, "lan": 54.927257},
+        {"lon": 73.373209, "lan": 54.926510},
+        {"lon": 73.382469, "lan": 54.917818},
+        {"lon": 73.396769, "lan": 54.917197},
+        {"lon": 73.404036, "lan": 54.937472},
+        {"lon": 73.405795, "lan": 54.938991},
+        {"lon": 73.408597, "lan": 54.939678},
+        {"lon": 73.411418, "lan": 54.939796},
+        {"lon": 73.416065, "lan": 54.938861},
+        {"lon": 73.403785, "lan": 54.949727},
+        {"lon": 73.394212, "lan": 54.949532},
+        {"lon": 73.393103, "lan": 54.952895},
+        {"lon": 73.392073, "lan": 54.955114},
+        {"lon": 73.387490, "lan": 54.954668}
+      ],
+      "zoneName": "Zone 21",
+      "isVisible": true,
+      "isClosed": true,
+      "isCompleted": false,
+      "isClickable": true,
+      "zoneColorHex": "#FF450040",
+      "description": "Test zone 21",
+      "activateScore": 0
+    },
+    {
+      "id": "zone_22",
+      "cords": [
+        {"lon": 73.350528, "lan": 54.933362},
+        {"lon": 73.338547, "lan": 54.922544},
+        {"lon": 73.330701, "lan": 54.910246},
+        {"lon": 73.324451, "lan": 54.893441},
+        {"lon": 73.313722, "lan": 54.876008},
+        {"lon": 73.311220, "lan": 54.860491},
+        {"lon": 73.314532, "lan": 54.848225},
+        {"lon": 73.340154, "lan": 54.830674},
+        {"lon": 73.346499, "lan": 54.827247},
+        {"lon": 73.361979, "lan": 54.824056},
+        {"lon": 73.378897, "lan": 54.826136},
+        {"lon": 73.395614, "lan": 54.830437},
+        {"lon": 73.418522, "lan": 54.841382},
+        {"lon": 73.432642, "lan": 54.847418},
+        {"lon": 73.463467, "lan": 54.844527},
+        {"lon": 73.482144, "lan": 54.842157},
+        {"lon": 73.486394, "lan": 54.855332},
+        {"lon": 73.471370, "lan": 54.856085},
+        {"lon": 73.459005, "lan": 54.854854},
+        {"lon": 73.431125, "lan": 54.853803},
+        {"lon": 73.419264, "lan": 54.865833},
+        {"lon": 73.421993, "lan": 54.888955},
+        {"lon": 73.411729, "lan": 54.896546},
+        {"lon": 73.410240, "lan": 54.896883},
+        {"lon": 73.403663, "lan": 54.896903},
+        {"lon": 73.398234, "lan": 54.899525},
+        {"lon": 73.394626, "lan": 54.901642},
+        {"lon": 73.392260, "lan": 54.904323},
+        {"lon": 73.391376, "lan": 54.910417},
+        {"lon": 73.394133, "lan": 54.917324},
+        {"lon": 73.382399, "lan": 54.917852},
+        {"lon": 73.372986, "lan": 54.926589},
+        {"lon": 73.350528, "lan": 54.933362}
+      ],
+      "zoneName": "Zone 22",
+      "isVisible": true,
+      "isClosed": true,
+      "isCompleted": false,
+      "isClickable": true,
+      "zoneColorHex": "#6A5ACD40",
+      "description": "Test zone 22",
+      "activateScore": 0
+    },
+    {
+      "id": "zone_23",
+      "cords": [
+        {"lon": 73.415992, "lan": 54.938830},
+        {"lon": 73.411431, "lan": 54.939914},
+        {"lon": 73.408637, "lan": 54.939786},
+        {"lon": 73.405788, "lan": 54.939112},
+        {"lon": 73.404055, "lan": 54.937571},
+        {"lon": 73.396818, "lan": 54.917233},
+        {"lon": 73.394080, "lan": 54.917297},
+        {"lon": 73.391310, "lan": 54.910430},
+        {"lon": 73.392316, "lan": 54.904326},
+        {"lon": 73.394831, "lan": 54.901530},
+        {"lon": 73.403656, "lan": 54.896908},
+        {"lon": 73.411536, "lan": 54.896619},
+        {"lon": 73.421987, "lan": 54.888968},
+        {"lon": 73.466681, "lan": 54.868338},
+        {"lon": 73.493889, "lan": 54.879225},
+        {"lon": 73.502670, "lan": 54.885400},
+        {"lon": 73.510647, "lan": 54.891091},
+        {"lon": 73.504662, "lan": 54.892928},
+        {"lon": 73.507917, "lan": 54.899801},
+        {"lon": 73.517872, "lan": 54.899262},
+        {"lon": 73.524236, "lan": 54.903539},
+        {"lon": 73.522431, "lan": 54.926219},
+        {"lon": 73.522307, "lan": 54.928145},
+        {"lon": 73.533106, "lan": 54.928002},
+        {"lon": 73.531340, "lan": 54.935251},
+        {"lon": 73.529549, "lan": 54.939789},
+        {"lon": 73.432177, "lan": 54.929497},
+        {"lon": 73.427076, "lan": 54.930250},
+        {"lon": 73.415992, "lan": 54.938830}
+      ],
+      "zoneName": "Zone 23",
+      "isVisible": true,
+      "isClosed": true,
+      "isCompleted": false,
+      "isClickable": true,
+      "zoneColorHex": "#9ACD3240",
+      "description": "Test zone 23",
       "activateScore": 0
     }
   ],
