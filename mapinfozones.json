@@ -72,7 +72,7 @@
       "isClosed": true,
       "isCompleted": false,
       "isClickable": true,
-      "zoneColorHex": "#FFA50040",
+      "zoneColorHex": "#75460052",
       "description": "Test zone 3",
       "activateScore": 0
     },
@@ -144,7 +144,7 @@
       "isClosed": true,
       "isCompleted": false,
       "isClickable": true,
-      "zoneColorHex": "#00800040",
+      "zoneColorHex": "#ff000052",
       "description": "Test zone 4",
       "activateScore": 0
     },
@@ -191,7 +191,7 @@
       "isClosed": true,
       "isCompleted": false,
       "isClickable": true,
-      "zoneColorHex": "#00FFFF40",
+      "zoneColorHex": "#0a750052",
       "description": "Test zone 6",
       "activateScore": 0
     },
@@ -253,7 +253,7 @@
       "isClosed": true,
       "isCompleted": false,
       "isClickable": true,
-      "zoneColorHex": "#FF69B440",
+      "zoneColorHex": "#36a32c52",
       "description": "Test zone 8",
       "activateScore": 0
     },
