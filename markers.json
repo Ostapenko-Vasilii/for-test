@@ -1,0 +1,16 @@
+{
+  "id": "marker_001",
+  "title": "Test Marker",
+  "iconUrl": "https://www.svgrepo.com/show/535115/alien.svg",
+  "imageUrl": "https://www.svgrepo.com/show/535115/alien.svg",
+  "category": "TestCategory",
+  "completedPercent": 75,
+  "coords": {
+    "latitude": 54.98853549596009,
+    "longitude": 73.35245475699284
+  },
+  "isVisible": true,
+  "isActive": false,
+  "isCompleted": false,
+  "zoneId": 1
+}
