@@ -1,4 +1,4 @@
-{
+[{
   "id": 1,
   "title": "Test Marker",
   "iconUrl": "https://www.svgrepo.com/show/535115/alien.svg",
@@ -14,3 +14,4 @@
   "isCompleted": false,
   "zoneId": 1
 }
+]
