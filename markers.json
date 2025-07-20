@@ -6,8 +6,8 @@
   "category": "TestCategory",
   "completedPercent": 75,
   "coords": {
-    "longitude": 73.373929744012,
-    "latitude": 54.97629120022998
+    "lat": 54.97629120022998,
+    "lon": 73.373929744012
   },
   "isVisible": true,
   "isActive": false,
