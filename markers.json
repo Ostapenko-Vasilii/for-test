@@ -1,8 +1,8 @@
 [{
   "id": 1,
   "title": "Test Marker",
-  "iconUrl": "https://www.svgrepo.com/show/535115/alien.svg",
-  "imageUrl": "https://www.svgrepo.com/show/535115/alien.svg",
+  "iconUrl": "https://raw.githubusercontent.com/Ostapenko-Vasilii/for-test/refs/heads/main/marker.png",
+  "imageUrl": "https://raw.githubusercontent.com/Ostapenko-Vasilii/for-test/refs/heads/main/marker.png",
   "category": "TestCategory",
   "completedPercent": 75,
   "coords": {
