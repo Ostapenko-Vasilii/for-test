@@ -11,7 +11,7 @@
   },
   "isVisible": true,
   "isActive": false,
-  "isCompleted": true,
+  "isCompleted": false,
   "zoneId": 1
 }
 ]
