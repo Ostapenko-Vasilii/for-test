@@ -12,6 +12,7 @@
   "isVisible": true,
   "isActive": false,
   "isCompleted": false,
-  "zoneId": 1
+  "zoneId": 1,
+  "address": "улица пушкина д. 33"
 }
 ]
