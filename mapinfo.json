@@ -1,95 +1,95 @@
 {
-  "lightMapStyleUrl": "https://tiles.openfreemap.org/styles/liberty",
-  "nightMapStyleUrl": "night_style_url",
-  "startPosition": {
+  "light_map_style_url": "https://tiles.openfreemap.org/styles/liberty",
+  "night_map_style_url": "night_style_url",
+  "start_position": {
     "lon": 73.35210150337,
-    "lan": 54.99427723359986
+    "lat": 54.99427723359986
   },
-  "maxZoom": 18,
-  "minZoom": 10,
-  "startZoom": 12,
-  "zonesList": [
+  "max_zoom": 18,
+  "min_zoom": 10,
+  "start_zoom": 12,
+  "zones_list": [
     {
-      "id": "01",
+      "id": 1,
       "cords": [
-        {"lon": 73.34206651587456, "lan": 54.99563349402976},
-        {"lon": 73.3524815299896, "lan": 54.988523747410966},
-        {"lon": 73.3603823599889, "lan": 54.991559509264675},
-        {"lon": 73.36013591184971, "lan": 54.991809014225},
-        {"lon": 73.3621364908654, "lan": 54.99245771986213},
-        {"lon": 73.35342777331894, "lan": 55.000030719788754},
-        {"lon": 73.34548779593018, "lan": 54.9972467682266},
-        {"lon": 73.34206651587456, "lan": 54.99563349402976}
+        {"lon": 73.34206651587456, "lat": 54.99563349402976},
+        {"lon": 73.3524815299896, "lat": 54.988523747410966},
+        {"lon": 73.3603823599889, "lat": 54.991559509264675},
+        {"lon": 73.36013591184971, "lat": 54.991809014225},
+        {"lon": 73.3621364908654, "lat": 54.99245771986213},
+        {"lon": 73.35342777331894, "lat": 55.000030719788754},
+        {"lon": 73.34548779593018, "lat": 54.9972467682266},
+        {"lon": 73.34206651587456, "lat": 54.99563349402976}
       ],
-      "zoneName": "Район им Пушкина",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#FF0000",
+      "zone_name": "Район им Пушкина",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#FF0000",
       "description": "Test zone",
-      "activateScore": 0,
-      "markersInZone": [
+      "activate_score": 0,
+      "markers_in_zone": [
         {
           "id": "marker1",
           "title": "Marker 1",
-          "iconUrl": "icon1.png",
-          "imageUrl": "image1.png",
-          "activeIconUrl": "active_icon1.png",
+          "icon_url": "icon1.png",
+          "image_url": "image1.png",
+          "active_icon_url": "active_icon1.png",
           "category": "Test",
-          "completedPercent": 0,
-          "coords": {"lon": 73.350, "lan": 54.995},
-          "isVisible": true,
-          "isActive": true,
-          "isCompleted": false
+          "completed_percent": 0,
+          "coords": {"lon": 73.350, "lat": 54.995},
+          "is_visible": true,
+          "is_active": true,
+          "is_completed": false
         },
         {
           "id": "marker2",
           "title": "Marker 2",
-          "iconUrl": "icon2.png",
-          "imageUrl": "image2.png",
-          "activeIconUrl": "active_icon2.png",
+          "icon_url": "icon2.png",
+          "image_url": "image2.png",
+          "active_icon_url": "active_icon2.png",
           "category": "Test",
-          "completedPercent": 0,
-          "coords": {"lon": 73.355, "lan": 54.990},
-          "isVisible": true,
-          "isActive": true,
-          "isCompleted": false
+          "completed_percent": 0,
+          "coords": {"lon": 73.355, "lat": 54.990},
+          "is_visible": true,
+          "is_active": true,
+          "is_completed": false
         }
       ]
     }
   ],
-  "markersList": [
+  "markers_list": [
     {
       "id": "marker1",
       "title": "Marker 1",
-      "iconUrl": "icon1.png",
-      "imageUrl": "image1.png",
-      "activeIconUrl": "active_icon1.png",
+      "icon_url": "icon1.png",
+      "image_url": "image1.png",
+      "active_icon_url": "active_icon1.png",
       "category": "Test",
-      "completedPercent": 0,
-      "coords": {"lon": 73.350, "lan": 54.995},
-      "isVisible": true,
-      "isActive": true,
-      "isCompleted": false
+      "completed_percent": 0,
+      "coords": {"lon": 73.350, "lat": 54.995},
+      "is_visible": true,
+      "is_active": true,
+      "is_completed": false
     },
     {
       "id": "marker2",
       "title": "Marker 2",
-      "iconUrl": "icon2.png",
-      "imageUrl": "image2.png",
-      "activeIconUrl": "active_icon2.png",
+      "icon_url": "icon2.png",
+      "image_url": "image2.png",
+      "active_icon_url": "active_icon2.png",
       "category": "Test",
-      "completedPercent": 0,
-      "coords": {"lon": 73.355, "lan": 54.990},
-      "isVisible": true,
-      "isActive": true,
-      "isCompleted": false
+      "completed_percent": 0,
+      "coords": {"lon": 73.355, "lat": 54.990},
+      "is_visible": true,
+      "is_active": true,
+      "is_completed": false
     }
   ],
-  "westBorder": 73.34206651587456,
-  "southBorder": 54.988523747410966,
-  "eastBorder": 73.3621364908654,
-  "northBorder": 55.000030719788754,
-  "hardBorders": true
+  "west_border": 73.34206651587456,
+  "south_border": 54.988523747410966,
+  "east_border": 73.3621364908654,
+  "north_border": 55.000030719788754,
+  "hard_borders": true
 }
