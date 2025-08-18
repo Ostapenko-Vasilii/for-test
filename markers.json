@@ -1,18 +1,18 @@
 [{
   "id": 1,
   "title": "Test Marker",
-  "iconUrl": "https://raw.githubusercontent.com/Ostapenko-Vasilii/for-test/refs/heads/main/Group 9.png",
-  "imageUrl": "https://vebcam.ru/wp-content/uploads/2022/08/uspenskogo-sobora-omsk.jpg",
+  "icon_url": "https://raw.githubusercontent.com/Ostapenko-Vasilii/for-test/refs/heads/main/Group 9.png",
+  "image_url": "https://vebcam.ru/wp-content/uploads/2022/08/uspenskogo-sobora-omsk.jpg",
   "category": "TestCategory",
-  "completedPercent": 75,
+  "completed_percent": 75,
   "coords": {
     "lat": 54.9901659,
     "lon": 73.3669533
   },
-  "isVisible": true,
-  "isActive": false,
-  "isCompleted": false,
-  "zoneId": 1,
+  "is_visible": true,
+  "is_active": false,
+  "is_completed": false,
+  "zone_id": 1,
   "address": "улица пушкина д. 33"
 }
 ]
