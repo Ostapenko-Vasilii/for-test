@@ -1,14 +1,14 @@
 {
-  "lightMapStyleUrl": "https://tiles.openfreemap.org/styles/liberty",
-  "nightMapStyleUrl": "https://tiles.openfreemap.org/styles/dark",
-  "startPosition": {
+  "light_map_style_url": "https://tiles.openfreemap.org/styles/liberty",
+  "night_map_style_url": "https://tiles.openfreemap.org/styles/dark",
+  "start_position": {
     "lon": 73.352102,
     "lat": 54.994277
   },
-  "maxZoom": 18,
-  "minZoom": 10,
-  "startZoom": 12,
-  "zonesList": [
+  "max_zoom": 18,
+  "min_zoom": 10,
+  "start_zoom": 12,
+  "zones_list": [
     {
       "id": 1,
       "cords": [
@@ -22,14 +22,14 @@
         {"lon": 73.343572, "lat": 54.994596},
         {"lon": 73.352455, "lat": 54.988535}
       ],
-      "zoneName": "Zone 1",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#0000FF40",
+      "zone_name": "Zone 1",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#0000FF40",
       "description": "Test zone 1",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 2,
@@ -44,14 +44,14 @@
         {"lon": 73.360442, "lat": 54.991576},
         {"lon": 73.352466, "lat": 54.988538}
       ],
-      "zoneName": "Zone 2",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#FFFF0040",
+      "zone_name": "Zone 2",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#FFFF0040",
       "description": "Test zone 2",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 3,
@@ -67,14 +67,14 @@
         {"lon": 73.356806, "lat": 55.001416},
         {"lon": 73.353142, "lat": 54.999969}
       ],
-      "zoneName": "Zone 3",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#75460052",
+      "zone_name": "Zone 3",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#75460052",
       "description": "Test zone 3",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 4,
@@ -139,14 +139,14 @@
         {"lon": 73.347823, "lat": 55.009257},
         {"lon": 73.357258, "lat": 55.001613}
       ],
-      "zoneName": "Zone 4",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#ff000052",
+      "zone_name": "Zone 4",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#ff000052",
       "description": "Test zone 4",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 5,
@@ -157,14 +157,14 @@
         {"lon": 73.373340, "lat": 55.002119},
         {"lon": 73.364715, "lat": 55.001901}
       ],
-      "zoneName": "Zone 5",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#80008040",
+      "zone_name": "Zone 5",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#80008040",
       "description": "Test zone 5",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 6,
@@ -186,14 +186,14 @@
         {"lon": 73.364422, "lat": 54.991368},
         {"lon": 73.363227, "lat": 54.991363}
       ],
-      "zoneName": "Zone 6",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#0a750052",
+      "zone_name": "Zone 6",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#0a750052",
       "description": "Test zone 6",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 7,
@@ -208,14 +208,14 @@
         {"lon": 73.365855, "lat": 54.989252},
         {"lon": 73.355838, "lat": 54.985841}
       ],
-      "zoneName": "Zone 7",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#FF000040",
+      "zone_name": "Zone 7",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#FF000040",
       "description": "Test zone 7",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 8,
@@ -229,7 +229,7 @@
         {"lon": 73.382782, "lat": 54.985263},
         {"lon": 73.383687, "lat": 54.986775},
         {"lon": 73.381045, "lat": 54.990132},
-        {"lon": 73.382382, "lat": 54.992095},
+        {"lon": 73.382377, "lat": 54.992091},
         {"lon": 73.384741, "lat": 54.993764},
         {"lon": 73.388088, "lat": 54.994458},
         {"lon": 73.392806, "lat": 54.995676},
@@ -248,14 +248,14 @@
         {"lon": 73.380580, "lat": 55.007015},
         {"lon": 73.373891, "lat": 55.007150}
       ],
-      "zoneName": "Zone 8",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#36a32c52",
+      "zone_name": "Zone 8",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#36a32c52",
       "description": "Test zone 8",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 9,
@@ -270,14 +270,14 @@
         {"lon": 73.377821, "lat": 55.035734},
         {"lon": 73.373981, "lat": 55.007168}
       ],
-      "zoneName": "Zone 9",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#2F4F4F40",
+      "zone_name": "Zone 9",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#2F4F4F40",
       "description": "Test zone 9",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 10,
@@ -301,14 +301,14 @@
         {"lon": 73.419234, "lat": 55.059651},
         {"lon": 73.377874, "lat": 55.035731}
       ],
-      "zoneName": "Zone 10",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#00FF0040",
+      "zone_name": "Zone 10",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#00FF0040",
       "description": "Test zone 10",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 11,
@@ -352,14 +352,14 @@
         {"lon": 73.426813, "lat": 55.039278},
         {"lon": 73.420475, "lat": 55.033795}
       ],
-      "zoneName": "Zone 11",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#4B008240",
+      "zone_name": "Zone 11",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#4B008240",
       "description": "Test zone 11",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 12,
@@ -377,7 +377,7 @@
         {"lon": 73.405042, "lat": 55.001355},
         {"lon": 73.408307, "lat": 54.998340},
         {"lon": 73.409089, "lat": 54.995184},
-        {"lon": 73.411210, "lat": 54.995386},
+        {"lon": 73.411210, "lat": 54.995378},
         {"lon": 73.414995, "lat": 54.996675},
         {"lon": 73.421557, "lat": 55.000135},
         {"lon": 73.426907, "lat": 55.002567},
@@ -396,14 +396,14 @@
         {"lon": 73.434780, "lat": 55.031084},
         {"lon": 73.420255, "lat": 55.033843}
       ],
-      "zoneName": "Zone 12",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#40E0D040",
+      "zone_name": "Zone 12",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#40E0D040",
       "description": "Test zone 12",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 13,
@@ -424,14 +424,14 @@
         {"lon": 73.365967, "lat": 54.981332},
         {"lon": 73.373814, "lat": 54.971956}
       ],
-      "zoneName": "Zone 13",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#FFD70040",
+      "zone_name": "Zone 13",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#FFD70040",
       "description": "Test zone 13",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 14,
@@ -450,14 +450,14 @@
         {"lon": 73.382948, "lat": 54.983348},
         {"lon": 73.380553, "lat": 54.982722}
       ],
-      "zoneName": "Zone 14",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#A52A2A40",
+      "zone_name": "Zone 14",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#A52A2A40",
       "description": "Test zone 14",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 15,
@@ -488,14 +488,14 @@
         {"lon": 73.382805, "lat": 54.985275},
         {"lon": 73.380029, "lat": 54.983466}
       ],
-      "zoneName": "Zone 15",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#7FFF0040",
+      "zone_name": "Zone 15",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#7FFF0040",
       "description": "Test zone 15",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 16,
@@ -538,14 +538,14 @@
         {"lon": 73.412712, "lat": 54.985627},
         {"lon": 73.396923, "lat": 54.984842}
       ],
-      "zoneName": "Zone 16",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#00008B40",
+      "zone_name": "Zone 16",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#00008B40",
       "description": "Test zone 16",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 17,
@@ -609,14 +609,14 @@
         {"lon": 73.517610, "lat": 55.015922},
         {"lon": 73.518057, "lat": 55.017916}
       ],
-      "zoneName": "Zone 17",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#DC143C40",
+      "zone_name": "Zone 17",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#DC143C40",
       "description": "Test zone 17",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 18,
@@ -638,14 +638,14 @@
         {"lon": 73.374026, "lat": 54.971994},
         {"lon": 73.373765, "lat": 54.971951}
       ],
-      "zoneName": "Zone 18",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#00CED140",
+      "zone_name": "Zone 18",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#00CED140",
       "description": "Test zone 18",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 19,
@@ -675,14 +675,14 @@
         {"lon": 73.382459, "lat": 54.972973},
         {"lon": 73.382102, "lat": 54.972944}
       ],
-      "zoneName": "Zone 19",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#C7158540",
+      "zone_name": "Zone 19",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#C7158540",
       "description": "Test zone 19",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 20,
@@ -713,14 +713,14 @@
         {"lon": 73.363362, "lat": 54.943078},
         {"lon": 73.350460, "lat": 54.933308}
       ],
-      "zoneName": "Zone 20",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#80800040",
+      "zone_name": "Zone 20",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#80800040",
       "description": "Test zone 20",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 21,
@@ -749,14 +749,14 @@
         {"lon": 73.392073, "lat": 54.955114},
         {"lon": 73.387490, "lat": 54.954668}
       ],
-      "zoneName": "Zone 21",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#FF450040",
+      "zone_name": "Zone 21",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#FF450040",
       "description": "Test zone 21",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 22,
@@ -795,14 +795,14 @@
         {"lon": 73.372986, "lat": 54.926589},
         {"lon": 73.350528, "lat": 54.933362}
       ],
-      "zoneName": "Zone 22",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#6A5ACD40",
+      "zone_name": "Zone 22",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#6A5ACD40",
       "description": "Test zone 22",
-      "activateScore": 0
+      "activate_score": 0
     },
     {
       "id": 23,
@@ -837,19 +837,19 @@
         {"lon": 73.427076, "lat": 54.930250},
         {"lon": 73.415992, "lat": 54.938830}
       ],
-      "zoneName": "Zone 23",
-      "isVisible": true,
-      "isClosed": true,
-      "isCompleted": false,
-      "isClickable": true,
-      "zoneColorHex": "#9ACD3240",
+      "zone_name": "Zone 23",
+      "is_visible": true,
+      "is_closed": true,
+      "is_completed": false,
+      "is_clickable": true,
+      "zone_color_hex": "#9ACD3240",
       "description": "Test zone 23",
-      "activateScore": 0
+      "activate_score": 0
     }
   ],
-  "westBorder": 73.311220,
-  "southBorder": 54.824056,
-  "eastBorder": 73.577548,
-  "northBorder": 55.075853,
-  "hardBorders": true
+  "west_border": 73.311220,
+  "south_border": 54.824056,
+  "east_border": 73.577548,
+  "north_border": 55.075853,
+  "hard_borders": true
 }
