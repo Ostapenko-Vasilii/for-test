@@ -1,21 +1,21 @@
 {
-    "version": 8,
-    "sources": {
-        "ne2_shaded": {
-            "maxzoom": 6,
-            "tileSize": 256,
-            "tiles": [
-                "https://tiles.openstreetmap.org/natural_earth/ne2sr/{z}/{x}/{y}.png"
-            ],
-            "type": "raster"
-        },
-        "openmaptiles": {
-            "type": "vector",
-            "url": "https://tiles.openstreetmap.org/planet"
-        }
+  "version": 8,
+  "sources": {
+    "osm_raster": {
+      "maxzoom": 6,
+      "tileSize": 256,
+      "tiles": ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"],
+      "type": "raster",
+      "attribution": "© OpenStreetMap contributors"
     },
-    "sprite": "https://tiles.openstreetmap.org/sprites/ofm_f384/ofm",
-    "glyphs": "https://tiles.openstreetmap.org/fonts/{fontstack}/{range}.pbf",
+    "osm_vector": {
+      "type": "vector",
+      "tiles": ["https://tiles.openstreetmap.org/planet/{z}/{x}/{y}.pbf"],
+      "attribution": "© OpenStreetMap contributors"
+    }
+  },
+  "sprite": "https://api.mapbox.com/styles/v1/mapbox/streets-v11/sprite",
+  "glyphs": "https://api.mapbox.com/fonts/v1/{fontstack}/{range}.pbf",
     "layers": [
         {
             "id": "background",
