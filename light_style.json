@@ -10,7 +10,7 @@
     },
     "osm_vector": {
       "type": "vector",
-      "tiles": ["https://tiles.openstreetmap.org/planet/{z}/{x}/{y}.pbf"],
+      "tiles": ["https://a.tile.openstreetmap.org/{z}/{x}/{y}.png"],
       "attribution": "© OpenStreetMap contributors"
     }
   },
